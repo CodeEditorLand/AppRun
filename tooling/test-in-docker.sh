@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 set -ex
 SCRIPT_PATH=$(realpath "$0")
